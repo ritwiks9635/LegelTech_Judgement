@@ -1,4 +1,3 @@
-```markdown
 # LegalTech Judgment Search – Proof of Concept
 
 This project is an end-to-end LegalTech proof-of-concept system that ingests raw legal judgment PDFs, converts them into a structured and searchable knowledge base, and enables natural-language querying over the content.
